@@ -1,1 +1,15 @@
-this is a new file
+This is line 1 of the file.
+
+**************************
+
+
+Line 2 of the file.
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Another line of the file.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
