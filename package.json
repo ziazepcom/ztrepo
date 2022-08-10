@@ -1,0 +1,22 @@
+{
+  "name": "cyauto",
+  "version": "1.0.0",
+  "description": "A project for cypress automation test for web applications.",
+  "main": "index.js",
+  "scripts": {
+    "open": "cypress open",
+    "server-json": "json-server --watch db.json --port 4000"
+  },
+  "author": "Ziaullah",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.4.0",
+    "cypress-downloadfile": "^1.2.2",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-mochawesome-reporter": "^3.2.0",
+    "cypress-xpath": "^2.0.1",
+    "json-server": "^0.17.0",
+    "mysql": "^2.18.1",
+    "neat-csv": "^7.0.0"
+  }
+}
